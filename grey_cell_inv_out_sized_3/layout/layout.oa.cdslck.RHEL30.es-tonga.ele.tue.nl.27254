@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      dicd18018
+HostName                       es-tonga.ele.tue.nl
+ProcessIdentifier              27254
+ProcessCreationTime_UTC        1547499063
+ProcessCreationTime_Readable   Mon Jan 14 21:51:03 2019 CET
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/dicd18/dicd18018/project/grey_cell_inv_out_sized_3/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Jan 14 21:51:57 2019 CET

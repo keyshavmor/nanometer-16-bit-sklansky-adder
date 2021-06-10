@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      dicd18018
+HostName                       es-tahiti.ele.tue.nl
+ProcessIdentifier              22825
+ProcessCreationTime_UTC        1547134521
+ProcessCreationTime_Readable   Thu Jan 10 16:35:21 2019 CET
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/dicd18/dicd18018/project/sklansky_adder_1/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Thu Jan 10 17:20:10 2019 CET
